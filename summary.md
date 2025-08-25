@@ -1,3 +1,6 @@
+---
+sort: 5
+---
 # まとめ
 
 - デバッグの種類<br>
@@ -21,4 +24,3 @@
 - 最後に<br>
   [アンケート](https://docs.google.com/forms/d/e/1FAIpQLSfcXMeXIN2te0Vez21FpaL0Sv0FL2qCtgEoQdC5i5EFY5zyLQ/viewform?usp=dialog)に答えてください！
 
-  
