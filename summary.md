@@ -19,4 +19,6 @@
   他言語でもこのようなツールはありますので、制作演習Ⅱや総合開発実習でも積極的に利用してみてください。
 
 - 最後に<br>
-  [アンケート](https://docs.google.com/forms/d/e/1FAIpQLSevalE7-k7Fl0NfugTDEqF-DpYtz44B91P4MJ6fXnv51lMUzw/viewform?usp=sf_link)に答えてください！
+  [アンケート](https://docs.google.com/forms/d/e/1FAIpQLSfcXMeXIN2te0Vez21FpaL0Sv0FL2qCtgEoQdC5i5EFY5zyLQ/viewform?usp=dialog)に答えてください！
+
+  
