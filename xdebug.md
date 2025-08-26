@@ -88,7 +88,7 @@ Xdebugを使うようにするには以下の手順を踏む必要がありま�
 ブレークポイントを設定するには、以下の手順を行います。
 
 1. ブレークポイントを設定したい行にカーソルを合わせる
-   今回は、`public/classes/dbphp`の`selectAll`メソッドの`return $persons`(18行目)にブレークポイントを設定します。
+   今回は、`public/classes/dbphp.php`の`selectAll`メソッドの`return $persons`(18行目)にブレークポイントを設定します。
     ![](./images/breakpoint1.png)
 2. 18行目にカーソルを合わせ、`F9`キーを押すとブレークポイントが設定される、すると行番号の左側に丸(赤い丸のときもある)が表示される
    ![](./images/breakpoint2.png)
