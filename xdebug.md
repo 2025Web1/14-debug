@@ -27,10 +27,10 @@ Xdebugを使うようにするには以下の手順を踏む必要がありま�
    以下のようにブラウザが立ち上がり、http://localhost:8000/ にアクセスされます
     ![](./images/xdebug6.png)<br>
    
-   ```tips
+```tip
    **【補足】** もしブラウザが立ちがらなかったら、`.vscode/launch.json`で`"name": "Launch built-in server and Debug"`の下部に記載されている`"."`を、`"public"`に変更してください。
    ![](./images/launch-json.png)<br>
-   ```
+```
 
 これで、デバッガの準備が整いました。
 では、実際にデバッガを使ってみましょう。
